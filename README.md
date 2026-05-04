@@ -1,5 +1,8 @@
 # PROJECT
 
+Project URL: https://github.com/Mistahebza/PROJECT
+# PROJECT
+
 A command-line tool to verify the integrity of log files using SHA-256 hashing. It detects unauthorized tampering by comparing file hashes against a stored baseline.
 
 ## Features
